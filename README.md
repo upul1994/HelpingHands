@@ -1,11 +1,3 @@
-**------------------------------------- Group Members -----------------------**  
-
-
-######   GSCOMP237 - M.A.U.C Madurasanka
-######   GSCOMP204 - B.U Sarathchandra
-
-
-
 
 **--------------------- Helping Hands Mobile App ----------------------------**
 
@@ -18,6 +10,13 @@
 2. **Donation** 
 3. **Doner**     
 4. **Volunteer**  
+
+
+**------------------------------------- Group Members -----------------------**  
+
+
+######   GSCOMP237 - M.A.U.C Madurasanka
+######   GSCOMP204 - B.U Sarathchandra
 
 
 
