@@ -1,7 +1,8 @@
 **------------------------------------- Group Members -----------------------**  
 
-###  GSCOMP237 - M.A.U.C Madurasanka
-###  GSCOMP204 - B.U Sarathchandra
+######  GSCOMP237 - M.A.U.C Madurasanka
+######  GSCOMP204 - B.U Sarathchandra
+
 
 
 
